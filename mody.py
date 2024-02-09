@@ -6,9 +6,9 @@ class Mody(object):
     
     OWNER = os.environ.get("OWNER", "5801201416")
     
-    ID_BOT = int(os.environ.get("ID_BOT", ""))
+    ID_BOT = int(os.environ.get("6501393522", ""))
     
-    USER_BOT = os.environ.get("USER_BOT", "")
+    USER_BOT = os.environ.get("@OQ2bot", "")
     
     MAX_ACCOUNTS = int(os.environ.get("MAX_ACCOUNTS", ""))
     
